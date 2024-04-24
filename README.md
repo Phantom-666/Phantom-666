@@ -1,5 +1,5 @@
-### Hi 👋 My name is Вадим
-======================Я Front-end разработчик-----------------------Front-end с 5+ годами опыта в программирование. Использую в своих проектах Nodejs, Javascript, Typescript, React, Next, Redux, MongoDB, Prisma* 🌍  I'm based in Russia, Saint-Petersburg* ✉️  You can contact me at [https://t.me/vdimvadim](mailto:https://t.me/vdimvadim)
+### Привет 👋 Меня зовут Вадим
+Front-end с 5+ годами опыта в программирование. Использую в своих проектах Nodejs, Javascript, Typescript, React, Next, Redux, MongoDB, Prisma
 
 ### Skills
 
