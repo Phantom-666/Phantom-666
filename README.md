@@ -1,5 +1,5 @@
 ### Привет 👋 Меня зовут Вадим
-Front-end с 5+ годами опыта в программирование. Использую в своих проектах Nodejs, Javascript, Typescript, React, Next, Redux, MongoDB, Prisma
+Front-end с 5+ годами опыта в программирование. Использую в своих проектах Nodejs, Javascript, Typescript, React, Next,Nest, Redux(redux-toolkit), MongoDB, Prisma
 
 ### Skills
 
